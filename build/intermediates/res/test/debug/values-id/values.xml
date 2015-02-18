@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Dev/Projects/Java/Android/Multiple-file-Selector-Dialog/app/build/intermediates/bundles/debug/res/values-id/values.xml -->
+    <eat-comment/>
+    <string name="CNew">Masukkan Nama Folder Baru</string>
+    <string name="Int">Internal</string>
+    <string name="New">Folder Baru</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="all">Centang Semua</string>
+    <string name="app_name">Dialog Pemilih File Parian</string>
+    <string name="cancel">Batalkan</string>
+    <string name="create">Buat</string>
+    <string name="directories">Folder</string>
+    <string name="ext">Eksternal</string>
+    <string name="files">File</string>
+    <string name="goUp">Naik</string>
+    <string name="none">Hapus Semua Centang</string>
+    <string name="ok">OKE</string>
+</resources>
